@@ -206,29 +206,29 @@ Pre kreativne faze potrebni su odgovori na 23 pitanja; prvih sedam određuje kak
 
 | # | Tema | Pitanje | Zašto je važno | Odgovor |
 | --- | --- | --- | --- | --- |
-| 1 | Pravila | Ko određuje rok trgovine i koliko ona obično traje? | Scena primera grupne kupovine |  |
-| 2 | Pravila | Kada se trgovina zatvara: istekom roka, rasprodajom količine ili dostizanjem praga? | Kraj primera u videu |  |
-| 3 | Pravila | Šta se dešava ako se željeni prag ne dostigne? Može li kupac da odustane? | Najčešća nedoumica kupaca |  |
-| 4 | Pravila | Da li kupac danas unosi i „željenu cenu“ ili samo količinu? | Prikaz izbora na ekranu |  |
-| 5 | Pravila | Postoji li minimalna količina po kupcu ili po trgovini? | Primer sa brojevima |  |
-| 6 | Pravila | Kako se potpisuje ugovor: elektronski ili na papiru? | Scena ugovora |  |
-| 7 | Pravila | Kako i kada se plaća: direktno prodavcu, avansno, u kom roku? | Poruka „bez plaćanja unapred“ |  |
-| 8 | Učesnici | Ko može da kupuje: samo firme i preduzetnici ili i fizička lica? | Publika i jezik videa |  |
-| 9 | Učesnici | Kako izgleda registracija firme i da li se firma verifikuje? | Scena registracije, poverenje |  |
-| 10 | Učesnici | Da li kupci u trgovini vide jedni druge i ukupnu prijavljenu količinu? | Animacija udruživanja |  |
-| 11 | Troškovi | Da li prodavac plaća proviziju, članarinu ili objavu ponude? Ima li troškova za kupca? | Poruka o ceni korišćenja |  |
-| 12 | Ponuda | Koje kategorije robe su danas aktivne? Smemo li da prikažemo stvarne ponude? | Snimci ekrana, primer proizvoda |  |
-| 13 | Ponuda | Da li se mogu nuditi i usluge, ili samo roba? | Obuhvat poruke |  |
-| 14 | Platforma | Da li je sajt menjan od 2020. ili se redizajn planira pre snimanja? | Snimci ne smeju brzo da zastare |  |
-| 15 | Platforma | Možete li otvoriti demo nalog kupca i prodavca i test-ponudu za snimanje? | Autentičan prikaz toka |  |
-| 16 | Kampanja | Glavni cilj: registracija kupaca, prodavaca ili oba? Koji je jedan glavni poziv na akciju? | Struktura i završetak videa |  |
+| 1 | Pravila | Ko određuje rok trgovine i koliko ona obično traje? | Scena primera grupne kupovine | Prodavac |
+| 2 | Pravila | Kada se trgovina zatvara: istekom roka, rasprodajom količine ili dostizanjem praga? | Kraj primera u videu | istekom roka ili rasprodajom kolicine |
+| 3 | Pravila | Šta se dešava ako se željeni prag ne dostigne? Može li kupac da odustane? | Najčešća nedoumica kupaca | Da |
+| 4 | Pravila | Da li kupac danas unosi i „željenu cenu“ ili samo količinu? | Prikaz izbora na ekranu | Kolicinu |
+| 5 | Pravila | Postoji li minimalna količina po kupcu ili po trgovini? | Primer sa brojevima | 1|
+| 6 | Pravila | Kako se potpisuje ugovor: elektronski ili na papiru? | Scena ugovora | elektronski |
+| 7 | Pravila | Kako i kada se plaća: direktno prodavcu, avansno, u kom roku? | Poruka „bez plaćanja unapred“ |bez plaćanja unapred  |
+| 8 | Učesnici | Ko može da kupuje: samo firme i preduzetnici ili i fizička lica? | Publika i jezik videa | fokus je B2B |
+| 9 | Učesnici | Kako izgleda registracija firme i da li se firma verifikuje? | Scena registracije, poverenje | saljem screenshot |
+| 10 | Učesnici | Da li kupci u trgovini vide jedni druge i ukupnu prijavljenu količinu? | Animacija udruživanja | mogu a moze i anonimna kupovina |
+| 11 | Troškovi | Da li prodavac plaća proviziju, članarinu ili objavu ponude? Ima li troškova za kupca? | Poruka o ceni korišćenja | 3-5% od prodaje |
+| 12 | Ponuda | Koje kategorije robe su danas aktivne? Smemo li da prikažemo stvarne ponude? | Snimci ekrana, primer proizvoda | prikazi stvarne ponude |
+| 13 | Ponuda | Da li se mogu nuditi i usluge, ili samo roba? | Obuhvat poruke | moze sve  |
+| 14 | Platforma | Da li je sajt menjan od 2020. ili se redizajn planira pre snimanja? | Snimci ne smeju brzo da zastare | menjan je |
+| 15 | Platforma | Možete li otvoriti demo nalog kupca i prodavca i test-ponudu za snimanje? | Autentičan prikaz toka | Ne |
+| 16 | Kampanja | Glavni cilj: registracija kupaca, prodavaca ili oba? Koji je jedan glavni poziv na akciju? | Struktura i završetak videa | Oba |
 | 17 | Kampanja | Gde će se video koristiti: sajt, YouTube, LinkedIn, sajmovi, prodajni sastanci? | Trajanje, titlovi, formati |  |
-| 18 | Kampanja | Da li video pominje franšizu ili samo kupce i prodavce? | Obuhvat poruke |  |
-| 19 | Kampanja | Treba li i engleska verzija? | Naracija, titlovi, grafika |  |
-| 20 | Brend | Koji je zvanični oblik naziva (eBerza ili e-Berza) i da li je „pametna trgovina“ aktuelan slogan? | Grafika i naracija |  |
-| 21 | Brend | Logo (SVG), boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost |  |
-| 22 | Dokazi | Postoje li stvarni korisnici ili rezultati koje smemo da navedemo, uz njihovu saglasnost? | Kredibilitet bez izmišljanja |  |
-| 23 | Pristup | Možete li dodati eberza.rs u dozvoljene domene okruženja, ili poslati snimke ekrana i tekst stranica Pravila i FAQ? | Provera svih nalaza na živom sajtu |  |
+| 18 | Kampanja | Da li video pominje franšizu ili samo kupce i prodavce? | Obuhvat poruke | sve |
+| 19 | Kampanja | Treba li i engleska verzija? | Naracija, titlovi, grafika | Da |
+| 20 | Brend | Koji je zvanični oblik naziva (eBerza ili e-Berza) i da li je „pametna trgovina“ aktuelan slogan? | Grafika i naracija |eBerza  |
+| 21 | Brend | Logo (SVG), boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost | Iskoristi sve sto mozes |
+| 22 | Dokazi | Postoje li stvarni korisnici ili rezultati koje smemo da navedemo, uz njihovu saglasnost? | Kredibilitet bez izmišljanja | Ne |
+| 23 | Pristup | Možete li dodati eberza.rs u dozvoljene domene okruženja, ili poslati snimke ekrana i tekst stranica Pravila i FAQ? | Provera svih nalaza na živom sajtu | Mozes da pristupis na sajtu tome |
 
 ## Sledeći koraci
 
