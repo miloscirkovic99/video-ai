@@ -3,10 +3,12 @@
 16. 10. 2026. · FAZA 1 — Istraživanje
 
 > Snimak dokumenta. Živa verzija (za komentare i odgovore): https://claude.ai/code/artifact/d7b768d7-c26e-42ce-9c6d-ac541cd4980b
+>
+> Odgovori iz commita „Update faza-1-product-research-video-brief.md“ preneti su u sekciju 7 (nova numeracija pitanja) i u ostale sekcije.
 
 ## Sažetak i metod istraživanja
 
-eBerza je B2B platforma za udruženu (grupnu) kupovinu: prodavac nudi cenu koja pada sa ukupnom količinom, a kupci se udružuju da zajedno stignu do nižeg praga. Osnovni model je jasan i dobro se objašnjava videom, a pravila trgovine sada su poznata iz dokumenta „Business rules on eBerza“. Otvoreni su još provizije, depozit kupca i izgled ekrana trgovine.
+eBerza je B2B platforma za udruženu (grupnu) kupovinu: prodavac nudi cenu koja pada sa ukupnom količinom, a kupci se udružuju da zajedno stignu do nižeg praga. Osnovni model je jasan i dobro se objašnjava videom, a pravila trgovine poznata su iz vaših odgovora i dokumenta „Business rules on eBerza“. Otvoreni su još depozit kupca i izgled ekrana posle prijave.
 
 **Važno ograničenje:** sajt eberza.rs i YouTube nisu mogli da se otvore iz ovog radnog okruženja. Mrežna politika okruženja dozvoljava samo GitHub i package managere. Sajt sam video samo kroz vaše snimke ekrana stranice za registraciju; FAQ (eberza.rs/en/faq) takođe nije dostupan.
 
@@ -42,7 +44,9 @@ Zvanični opis sa početne strane: „eberza je platforma koja povezuje kupce i 
 | Operator | „AFEJA“ d.o.o., Bulevar Oslobođenja 51, Beograd | Kontakt na sajtu |
 | Kontakt | eberza@afeja.com, +381 69 664557 | Kontakt na sajtu |
 | Pokrenuta | 2018. (predstavljena u medijima novembra 2018.) | Danas, Elektronsko bankarstvo |
-| Ko učestvuje | Samo poslovni subjekti: firme, preduzetnici, vlasnici radnji i lica registrovana za obavljanje delatnosti; domaći i strani | Forma za registraciju; pravila poslovanja |
+| Ko učestvuje | Samo poslovni subjekti: firme, preduzetnici, vlasnici radnji i lica registrovana za obavljanje delatnosti; domaći i strani | Forma za registraciju; pravila; klijent |
+| Šta se prodaje | Roba i usluge | Klijent |
+| Naknada | Prodavac plaća proviziju od 3–5% od prodaje | Klijent |
 | Uloga platforme | „Poziv na razmenu ponuda“, ne katalog robe; platforma ne određuje cene i ne garantuje isporuku | Pravila poslovanja; stranica o franšizi |
 | Cene | U dinarima, bez PDV-a (osim za strane učesnike) | Pravila poslovanja |
 | Sporovi | Ugovoreni sud ili ugovoreni arbitar | Pravila poslovanja |
@@ -53,20 +57,20 @@ Zvanični opis sa početne strane: „eberza je platforma koja povezuje kupce i 
 
 ## 2. Kako platforma funkcioniše, korak po korak
 
-Trgovina ima osam koraka, od registracije do isporuke; pravila za korake 2–6 poznata su iz dokumenta „Business rules on eBerza“. Oznake: **\[pravila\]** = taj dokument, **\[sajt\]** = tekst sa eberza.rs, **\[registracija\]** = vaši snimci ekrana, **\[2018\]** = intervju u medijima, **\[?\]** = nije opisano.
+Trgovina ima osam koraka, od registracije do isporuke; pravila za korake 2–6 poznata su iz dokumenta „Business rules on eBerza“. Oznake: **\[pravila\]** = taj dokument, **\[sajt\]** = tekst sa eberza.rs, **\[registracija\]** = vaši snimci ekrana, \[klijent\] = vaši odgovori, **\[2018\]** = intervju u medijima, **\[?\]** = nije opisano.
 
 1. **Registracija firme.** Forma ima tri koraka. *Info*: korisničko ime, lozinka, e-pošta, naziv i pun naziv firme, telefon, država, grad, adresa. *Company*: PIB, matični broj, broj registracionog dokumenta, tekući račun, dokaz o upisu u registar, PDV broj (ako postoji), delatnost, oblik organizovanja, kontakt osoba i PR tekst do 1.100 znakova. *Networks*: društvene mreže, neobavezno. Obavezno je prihvatanje pravila. \[registracija\] Da li eBerza proverava priložena dokumenta, nije poznato. \[?\]
 2. **Prodavac objavljuje oglas.** Nudi zalihu uz tabelu količinskih popusta „od–do“ i sam određuje datum i čas završetka. Oglas traje najviše 90 dana; AFEJA ga izuzetno može produžiti. \[pravila\] Popuste određuje prodavac, ne platforma. \[sajt\]
-3. **Kupac daje ponudu.** Unosi tačnu količinu, bira cenu iz tabele „Quantity discount“ i uslov kupovine iz „Conditions of purchase“. Jedan uslov je kupovina po bilo kojoj ceni iz raspona, ali ne iznad cene koju je kupac ponudio. \[pravila\]
+3. **Kupac daje ponudu.** Unosi količinu koja mu treba, najmanje 1. \[klijent\] Pravila opisuju i izbor cene iz tabele popusta i uslova kupovine; da li to postoji u današnjem interfejsu, treba potvrditi. \[pravila\]
 4. **Potražnja se sabira.** Cena se formira iz zbira pojedinačnih ponuda registrovanih kupaca. Zbir nije zajednička ponuda: kupci ne odgovaraju jedni za druge. Ako ponuda poslednjeg kupca premaši preostalu količinu, on dobija samo ostatak. \[pravila\]
-5. **Izmena i povlačenje do roka.** Kupac može da izmeni, dopuni ili povuče ponudu do isteka oglasa, a posle toga ne može. Za kasnije povlačenje prodavac može da aktivira depozit koji je kupac dao kao garanciju ili da prihvati odustanak. \[pravila\] Iznos depozita i kada se plaća, nije opisano. \[?\]
-6. **Prodavac bira kupce.** Po isteku roka prodavac odlučuje kome dodeljuje ugovor; pravila preporučuju potvrdu izabranom kupcu u roku od 5 radnih dana. Ugovor nastaje kada kupac primi tu potvrdu. Ako uslovi nisu ispunjeni, preporuka je da prodavac obustavi trgovinu i obavesti kupce. \[pravila\]
-7. **Ugovor.** Platforma generiše obrazac ugovora koji postaje obavezujući potpisom. \[sajt\] Način potpisa nije poznat. \[?\]
-8. **Plaćanje i isporuka.** Roba se plaća tek kada se dostigne željena cena. \[sajt\] Plaćanje ide po dogovoru kupca i prodavca, ne preko portala. \[2018\] Isporuka je obaveza prodavca. \[sajt\] Vrstu i iznos poreza kupac saznaje posle zaključenja ugovora. \[pravila\]
+5. **Izmena i povlačenje do roka.** Kupac može da izmeni, dopuni ili povuče ponudu do isteka oglasa. \[pravila\] Ako željeni prag ne bude dostignut, kupac može da odustane. \[klijent\] Pravila pominju i depozit kao garanciju za kasno povlačenje; da li se on danas traži, treba potvrditi. \[?\]
+6. **Prodavac bira kupce.** Trgovina se zatvara istekom roka ili kada se rasproda količina. \[klijent\] Prodavac zatim odlučuje kome dodeljuje ugovor; pravila preporučuju potvrdu izabranom kupcu u roku od 5 radnih dana. Ugovor nastaje kada kupac primi tu potvrdu. Ako uslovi nisu ispunjeni, preporuka je da prodavac obustavi trgovinu i obavesti kupce. \[pravila\]
+7. **Ugovor.** Platforma generiše obrazac ugovora koji postaje obavezujući potpisom. \[sajt\] Ugovor se potpisuje elektronski. \[klijent\]
+8. **Plaćanje i isporuka.** Nema plaćanja unapred; roba se plaća tek kada se dostigne željena cena. \[klijent, sajt\] Plaćanje ide po dogovoru kupca i prodavca, ne preko portala. \[2018\] Prodavac plaća proviziju od 3–5% od prodaje. \[klijent\] Isporuka je obaveza prodavca. \[sajt\] Vrstu i iznos poreza kupac saznaje posle zaključenja ugovora. \[pravila\]
 
 ![Tok grupne kupovine](assets/tok-grupne-kupovine.png)
 
-Osenčen korak, sabiranje potražnje, jeste srž poruke videa; isprekidani deo je alternativni ishod: ako uslovi nisu ispunjeni, pravila preporučuju da prodavac obustavi trgovinu i obavesti kupce.
+Osenčen korak, sabiranje potražnje, jeste srž poruke videa; isprekidani deo je alternativni ishod: ako prag nije dostignut, kupac može da odustane, a pravila preporučuju da prodavac obustavi trgovinu i obavesti kupce.
 
 **Privatnost i poverenje:** kupci nastupaju pod korisničkim imenom, a identitet kupca zna samo prodavac čiju robu kupuje. \[2018\] Forma za registraciju nudi opciju „Shopping privacy“; da li je to isti izbor, treba potvrditi. \[registracija\] Prodavac može da odbije kupce koji su skoro kršili pravila, davali netačne podatke ili odbijali da potpišu ugovor. \[pravila\] Posle trgovine učesnici vide uslove kupovine i isporuke i kontakt druge strane. \[sajt\]
 
@@ -79,16 +83,15 @@ Glavna korist za kupca: cena velike porudžbine bez obaveze da sam naruči celu 
 | Prednost | Šta kaže izvor | Izvor |
 | --- | --- | --- |
 | Niža cena kroz udruživanje | „Vi i drugi kupci možete se udružiti i zajedno naručiti veće količine, ostvarujući značajne popuste.“ | Stranica za kupce |
-| Kupac sam postavlja granicu cene | Uslov kupovine: bilo koja cena iz raspona popusta, ali ne iznad cene koju je kupac ponudio | Pravila poslovanja |
-| Kupuje tačno koliko mu treba | Ponuda se daje za tačnu količinu koju kupac želi | Pravila poslovanja |
+| Bez plaćanja unapred | Nema plaćanja unapred; roba se plaća tek kada se dostigne željena cena | Klijent; stranica o franšizi |
+| Kupuje koliko mu treba | Kupac unosi količinu, najmanje 1 | Klijent |
+| Bez rizika ako cena ne padne | Ako željeni prag nije dostignut, kupac može da odustane | Klijent |
 | Bez zajedničke odgovornosti | Zbir ponuda nije zajednička ponuda; kupci ne odgovaraju jedni za druge | Pravila poslovanja |
-| Fleksibilnost do roka | Ponuda se može izmeniti, dopuniti ili povući do isteka oglasa | Pravila poslovanja |
-| Plaćanje tek po dostizanju cene | Roba se plaća tek kada se dostigne željena cena | Stranica o franšizi |
-| Besplatno učlanjenje | „Pridružite se besplatno“ | Stranica za kupce |
-| Pravna sigurnost | Ugovor obavezujući potpisom; sporovi pred ugovorenim sudom ili arbitrom | Stranica o franšizi; pravila |
-| Diskrecija | Kupac nastupa pod korisničkim imenom; pri registraciji postoji opcija „Shopping privacy“ | Danas, 2018.; forma za registraciju |
+| Besplatno za kupce | „Pridružite se besplatno“; proviziju plaća prodavac | Stranica za kupce; klijent |
+| Pravna sigurnost | Elektronski ugovor; sporovi pred ugovorenim sudom ili arbitrom | Klijent; pravila |
+| Diskrecija | Moguća je anonimna kupovina | Klijent; forma za registraciju („Shopping privacy“) |
 
-**Šta video ne sme da tvrdi bez potvrde:** procenat uštede; garanciju isporuke (platforma je ne garantuje); da je korišćenje potpuno besplatno (provizije nisu poznate); da kupac ništa ne plaća unapred (pravila pominju depozit kao garanciju); da kupac uvek dobija najnižu cenu; da su sve firme provereno pouzdane (provera dokumenata nije potvrđena).
+**Šta video ne sme da tvrdi:** procenat uštede; garanciju isporuke (platforma je ne garantuje); izjave korisnika i brojke o rezultatima (klijent ih nema); da kupac uvek dobija najnižu cenu; da su sve firme proverene (provera dokumenata nije potvrđena). „Bez plaćanja unapred“ ide u video tek kada se potvrdi da se depozit iz pravila više ne traži (pitanje 8).
 
 ## 4. Glavne prednosti za prodavce
 
@@ -101,14 +104,14 @@ Glavna korist za prodavca: jedna ponuda doseže više kupaca odjednom i prodaje 
 | Rast prodaje i dostupnosti | „As a seller, eBerza offers you a unique opportunity to increase the sales and availability of your products.“ | Stranica za prodavce (EN) |
 | Prodavac upravlja uslovima | Sam određuje količinske popuste, pragove i rok oglasa (najviše 90 dana) | Stranica o franšizi; pravila |
 | Prodavac bira kupce | Po isteku roka odlučuje kome dodeljuje ugovor; može da odbije kupce koji su kršili pravila ili odbijali ugovor | Pravila poslovanja |
-| Zaštita od odustajanja | Za povlačenje posle roka može da aktivira depozit kupca; uz klauzulu u oglasu može da obustavi trgovinu ako jedan kupac odustane | Pravila poslovanja |
+| Zaštita od odustajanja | Uz klauzulu u oglasu može da obustavi trgovinu ako jedan kupac odustane; depozit kupca iz pravila treba potvrditi | Pravila poslovanja |
 | Rešava zalihe koje vezuju novac | Prodavci kroz „količinske popuste“ rešavaju problem plasmana postojećih zaliha | Danas, 2018. |
 | Planiranje proizvodnje | Jedan proizvođač (Li-kom plus, Gročka) naveo je da mu portal olakšava planiranje proizvodnje | Elektronsko bankarstvo, 2018. |
 | Ugovor po završetku | Platforma generiše ugovor; sporovi idu pred ugovoreni sud ili arbitra | Stranica o franšizi; pravila |
 
-**Tvrdnje sa sajta koje treba proveriti pre upotrebe:** prema sažetku pretrage, engleska stranica pominje brži obrt zaliha „bez dodatnog ulaganja u marketing“ i „bez dodatnih troškova za izlazak na međunarodna tržišta“. Tačne formulacije nisu potvrđene, pa ih video za sada ne koristi. Izjava korisnika iz 2018. može u video samo uz njegovu saglasnost i proveru da je i danas aktuelna.
+**Tvrdnje sa sajta koje treba proveriti pre upotrebe:** prema sažetku pretrage, engleska stranica pominje brži obrt zaliha „bez dodatnog ulaganja u marketing“ i „bez dodatnih troškova za izlazak na međunarodna tržišta“. Tačne formulacije nisu potvrđene, pa ih video za sada ne koristi. Izjava korisnika iz 2018. ne ulazi u video: klijent nema korisnike ni rezultate koje smemo da navedemo.
 
-**Obaveza prodavca koju video treba pošteno da pokaže:** isporuka je odgovornost prodavca.
+**Obaveza prodavca koju video treba pošteno da pokaže:** isporuka je odgovornost prodavca, a provizija iznosi 3–5% od prodaje (klijent). Prodavac može da nudi robu i usluge.
 
 ## Ciljni korisnici, problemi i razlika od internet prodavnice
 
@@ -116,9 +119,9 @@ eBerza se obraća firmama na obe strane: onima koje imaju robu u većim količin
 
 **Ciljni korisnici (prema izvorima):**
 
-- **Prodavci:** proizvođači, veleprodaje i distributeri, posebno oni sa viškom zaliha ili planiranom proizvodnjom. Prema pravilima to mogu biti registrovani preduzetnici, pravna lica, vlasnici radnji i lica registrovana za obavljanje delatnosti, domaći i strani.
+- **Prodavci:** proizvođači, veleprodaje i distributeri, posebno oni sa viškom zaliha ili planiranom proizvodnjom; nude robu i usluge. Prema pravilima to mogu biti registrovani preduzetnici, pravna lica, vlasnici radnji i lica registrovana za obavljanje delatnosti, domaći i strani.
 - **Kupci:** firme i preduzetnici koji nabavljaju robu. Registracija traži PIB, matični broj i dokaz o upisu u registar, pa građani nisu publika.
-- **Franšizanti:** partneri koji razvijaju mrežu na svojoj teritoriji; nisu publika ovog videa, osim ako se ne odluči drugačije.
+- **Franšizanti:** partneri koji razvijaju mrežu na svojoj teritoriji. Video ih pominje, jer prema odluci klijenta obuhvata kupce, prodavce i franšizu.
 
 **Problemi koje platforma rešava:**
 
@@ -130,10 +133,10 @@ eBerza se obraća firmama na obe strane: onima koje imaju robu u većim količin
 | --- | --- | --- |
 | Ko određuje cenu | Prodavnica, ista cena za sve | Prodavac daje pragove; cena se formira iz zbira ponuda svih kupaca |
 | Odnos kupac–prodavac | Jedan na jedan, odmah | „Nije trgovina jedan na jedan“: više kupaca na jednom oglasu |
-| Kupac bira | Količinu po fiksnoj ceni | Tačnu količinu, cenu iz tabele popusta i uslov kupovine |
+| Kupac bira | Količinu po fiksnoj ceni | Količinu koja mu treba, najmanje 1 |
 | Plaćanje | Odmah, pri porudžbini | Tek kad se dostigne željena cena, prema ugovoru |
-| Trenutak kupovine | Odmah po porudžbini | Po isteku roka oglasa (do 90 dana), kada prodavac potvrdi kupce |
-| Pravni okvir | Opšti uslovi prodavnice | Ugovor koji platforma generiše; sporovi pred ugovorenim sudom ili arbitrom |
+| Trenutak kupovine | Odmah po porudžbini | Kada istekne rok oglasa (do 90 dana) ili se rasproda količina |
+| Pravni okvir | Opšti uslovi prodavnice | Elektronski ugovor koji platforma generiše; sporovi pred ugovorenim sudom ili arbitrom |
 | Isporuka | Prodavnica | Prodavac, na adresu kupca ili dogovorenu lokaciju |
 
 **Moguća zabuna koju video treba da preduhitri (moja procena):** „grupna kupovina“ u Srbiji se često veže za sajtove sa kuponima za usluge. eBerza nije sajt sa kuponima: nema unapred zadatog popusta, već cenu određuje ukupna količina robe.
@@ -144,7 +147,7 @@ Vaši snimci ekrana pokazuju interfejs u tamnoplavoj, sivoplavoj i svetloplavoj 
 
 | Element | Šta je poznato | Status |
 | --- | --- | --- |
-| Naziv | U upotrebi su „eBerza“ (registracija, Facebook, mediji), „e-Berza“ (naslov početne strane), „e-berza“ (stranica za kupce) i „eberza“ (tekst na sajtu) | Interfejs koristi „eBerza“; potvrditi za video |
+| Naziv | U upotrebi su „eBerza“ (registracija, Facebook, mediji), „e-Berza“ (naslov početne strane), „e-berza“ (stranica za kupce) i „eberza“ (tekst na sajtu) | Zvanični naziv: eBerza (klijent) |
 | Slogan | „pametna trgovina“, iz naziva Facebook stranice | Potvrditi da li je aktuelan |
 | Zaštićeni znak | Prijava „EB EBERZA“ u SAD, broj 79374476, podneta 6. 4. 2023., vlasnik AFEJA ([Justia](https://trademarks.justia.com/793/74/eb-79374476.html)) | Izgled znaka nije viđen |
 | Logo | Nije viđen na snimcima | Potreban SVG |
@@ -154,7 +157,7 @@ Vaši snimci ekrana pokazuju interfejs u tamnoplavoj, sivoplavoj i svetloplavoj 
 | Ton komunikacije | Obraćanje sa „Vi“, kratke poruke u imperativu: „Pridružite se besplatno“, „Registrujte se“; EN naslov „Increase sales.“ | Iz teksta sajta |
 | Ažurnost sajta | Footer stranice za kupce prikazuje 2020.; registracija koristi Cloudflare Turnstile i ima dugme za čet | Proveriti godinu u footeru |
 
-**Potrebni materijali od klijenta:**
+**Materijali:** brand book nije poslat, a prema vašem odgovoru koristimo sve što je dostupno. Logo, boje i fontove preuzimamo sa sajta kada pristup bude omogućen; ovo bi i dalje pomoglo:
 
 - Logo u vektorskom formatu (SVG, AI ili PDF), sa varijantom za tamnu i svetlu pozadinu.
 - Brand book ili bar HEX kodove boja i nazive fontova.
@@ -168,16 +171,16 @@ U središtu videa treba da bude oglas sa količinskim pragovima i trenutak kada 
 | Prioritet | Funkcionalnost | Šta gledalac treba da vidi | Postojanje | Ekran |
 | --- | --- | --- | --- | --- |
 | 1 | Oglas sa količinskim pragovima | Proizvod, tabela „od–do“ količina sa cenom po jedinici, rok oglasa | Potvrđeno (pravila) | Nije viđen |
-| 2 | Ponuda kupca | Tačna količina, cena iz tabele popusta, uslov kupovine | Potvrđeno (pravila) | Nije viđen |
-| 3 | Udružena potražnja | Zbir ponuda raste i dostiže niži prag | Mehanizam potvrđen | Nije poznato da li sajt prikazuje zbir; ako ne, animacija označena kao ilustracija |
+| 2 | Ponuda kupca | Kupac unosi količinu, najmanje 1 (klijent) | Potvrđeno (pravila) | Nije viđen |
+| 3 | Udružena potražnja | Zbir ponuda raste i dostiže niži prag | Mehanizam potvrđen | Nije viđen; kupci mogu da vide jedni druge (klijent), pa ekran verovatno postoji |
 | 4 | Prodavac bira kupce | Po isteku roka prodavac potvrđuje izabrane kupce | Potvrđeno (pravila) | Nije viđen |
-| 5 | Ugovor | Platforma generiše obrazac ugovora koji se potpisuje | Potvrđeno tekstom | Nije viđen |
+| 5 | Ugovor | Platforma generiše ugovor koji se potpisuje elektronski | Potvrđeno tekstom | Nije viđen |
 | 6 | Uslovi isporuke i kontakt | Učesnici vide uslove kupovine, isporuke i kontakt druge strane | Potvrđeno tekstom | Nije viđen |
 | 7 | Izmena ili povlačenje ponude | Kupac menja ponudu do isteka roka | Potvrđeno (pravila) | Nije viđen |
 | 8 | Registracija firme | Tri koraka (Info, Company, Networks); PIB, matični broj, dokaz o upisu u registar | Potvrđeno | Viđen (vaši snimci) |
-| 9 | Diskretna kupovina | Opcija „Shopping privacy“ pri registraciji | Opcija postoji; značenje potvrditi | Viđen (polje za izbor) |
+| 9 | Diskretna kupovina | Opcija „Shopping privacy“ pri registraciji | Anonimna kupovina (klijent) | Viđen (polje za izbor) |
 
-**Preporuka za snimanje:** kontrolisani demo nalozi, jedan kupac i jedan prodavac, i test-oglas sa izmišljenim proizvodom, označenim kao primer. Tako se ceo tok može snimiti bez prikazivanja stvarnih firmi i cena. Registracija je dugačka (tri koraka i prilozi), pa je u videu treba prikazati kratko, kao poruku da učestvuju samo registrovane firme.
+**Preporuka za snimanje:** demo nalozi ne postoje, a stvarne ponude treba prikazati. Javne stranice i stvarne oglase snimamo direktno sa sajta. Tok posle prijave (objava oglasa, ponuda kupca, elektronski ugovor) treba da snimi neko iz eBerze sa stvarnim nalogom (pitanje 28); bez toga, taj deo ide kao animacija označena kao ilustracija. Registraciju prikazujemo kratko, kao poruku da učestvuju samo registrovane firme.
 
 ## 6. Najčešće nedoumice koje video treba da razjasni
 
@@ -186,18 +189,16 @@ Nedoumice označene sa „Da“ imaju odgovor u izvorima i mogu odmah u scenario
 | Nedoumica gledaoca | Odgovor iz izvora | Spremno za video |
 | --- | --- | --- |
 | Ko može da učestvuje? | Firme, preduzetnici i registrovane delatnosti, domaći i strani | Da |
-| Da li mogu da platim više nego što želim? | Ne, ako izabere uslov „ne iznad ponuđene cene“ | Da |
+| Šta može da se prodaje? | Roba i usluge | Da |
+| Moram li da platim unapred? | Ne; roba se plaća tek kada se dostigne željena cena | Da, posle potvrde da nema depozita (pitanje 8) |
+| Šta ako se ne skupi dovoljno kupaca? | Kupac može da odustane | Da |
+| Koliko mora da kupim? | Najmanje 1 | Da |
+| Koliko traje trgovina i ko određuje rok? | Prodavac; najviše 90 dana, ili dok se količina ne rasproda | Da |
 | Ko isporučuje robu? | Prodavac, na adresu kupca ili dogovorenu lokaciju | Da |
-| Da li je kupovina pravno sigurna? | Ugovor obavezujući potpisom; sporovi pred ugovorenim sudom ili arbitrom | Da |
-| Da li je učlanjenje besplatno? | Za kupce: „Pridružite se besplatno“ | Da, samo za registraciju |
-| Koliko traje trgovina i ko određuje rok? | Rok određuje prodavac, najviše 90 dana | Da |
-| Mogu li da se predomislim? | Da, do isteka roka; posle toga prodavac može da aktivira depozit | Da, uz pomen depozita |
+| Da li je kupovina pravno sigurna? | Elektronski ugovor; sporovi pred ugovorenim sudom ili arbitrom | Da |
+| Koliko košta? | Registracija za kupce je besplatna; prodavac plaća 3–5% od prodaje | Da |
+| Ko vidi moje podatke? | Kupci mogu da vide jedni druge; moguća je i anonimna kupovina | Da |
 | Odgovaram li za druge kupce? | Ne; zbir ponuda nije zajednička ponuda | Da |
-| Šta ako se ne skupi dovoljno kupaca? | Preporuka: prodavac obustavlja trgovinu i obaveštava kupce | Posle potvrde (preporuka, ne obaveza) |
-| Moram li da platim unapred? | Roba se plaća kad se dostigne cena; pravila pominju depozit kao garanciju | Posle potvrde depozita |
-| Ko vidi moje podatke? | Korisničko ime; opcija „Shopping privacy“ | Posle potvrde |
-| Koliko košta prodavca? | Provizija ili članarina nisu javno opisane | Ne |
-| Koju robu mogu da prodam? | Kategorije nisu poznate | Ne |
 | Po čemu se razlikuje od sajtova sa kuponima? | Cena zavisi od zbira ponuda, ne od unapred zadatog popusta | Da |
 
 ## Analiza referentnih video-snimaka
@@ -219,53 +220,60 @@ Oba referentna videa nisam pogledao i ne mogu da ih analiziram: YouTube nije dos
 
 ## 7. Informacije za potvrdu pre produkcije
 
-Otvoreno je još 21 od 27 pitanja; šest je odgovoreno iz pravila poslovanja i vaših snimaka, a odgovore iz pravila treba samo potvrditi. Pitanja 1–10 određuju kako će scenario objasniti trgovinu. Odgovore možete upisati direktno u kolonu „Odgovor“.
+Otvoreno je još šest od 29 pitanja (8, 9, 10, 21, 28 i 29). Ostali odgovori su vaši (oznaka „klijent“) ili iz pravila poslovanja; gde se razlikuju, važi vaš odgovor.
 
 | # | Tema | Pitanje | Zašto je važno | Odgovor |
 | --- | --- | --- | --- | --- |
-| 1 | Pravila | Ko određuje rok trgovine i koliko ona obično traje? | Scena primera grupne kupovine | Prodavac; najviše 90 dana (pravila) |
-| 2 | Pravila | Kada se trgovina zatvara? | Kraj primera u videu | Istekom roka iz oglasa; zatim prodavac bira kupce, preporučeno u roku od 5 radnih dana (pravila) |
-| 3 | Pravila | Šta se dešava ako se željeni prag ne dostigne? Može li kupac da odustane? | Najčešća nedoumica kupaca | Preporuka: prodavac obustavlja trgovinu i obaveštava kupce; kupac može da povuče ponudu do roka (pravila) |
-| 4 | Pravila | Da li kupac unosi „željenu cenu“ ili samo količinu? | Prikaz izbora na ekranu | Tačnu količinu, cenu iz tabele popusta i uslov kupovine (pravila) |
-| 5 | Pravila | Postoji li minimalna količina po kupcu ili po trgovini? | Primer sa brojevima |  |
-| 6 | Pravila | Kako se potpisuje ugovor: elektronski ili na papiru? | Scena ugovora |  |
-| 7 | Pravila | Kako i kada se plaća: direktno prodavcu, avansno, u kom roku? | Poruka o plaćanju |  |
-| 8 | Pravila | Depozit kupca: da li je obavezan, koliki je i kada se daje? | Poruka „plaća se tek kad se dostigne cena“ |  |
-| 9 | Pravila | Koji su svi uslovi kupovine u „Conditions of purchase“? | Prikaz ponude kupca |  |
+| 1 | Pravila | Ko određuje rok trgovine i koliko ona obično traje? | Scena primera grupne kupovine | Prodavac (klijent); najviše 90 dana (pravila) |
+| 2 | Pravila | Kada se trgovina zatvara? | Kraj primera u videu | Istekom roka ili kada se rasproda količina (klijent) |
+| 3 | Pravila | Šta se dešava ako se željeni prag ne dostigne? Može li kupac da odustane? | Najčešća nedoumica kupaca | Kupac može da odustane (klijent) |
+| 4 | Pravila | Da li kupac unosi „željenu cenu“ ili samo količinu? | Prikaz izbora na ekranu | Samo količinu (klijent) |
+| 5 | Pravila | Postoji li minimalna količina po kupcu ili po trgovini? | Primer sa brojevima | Minimum je 1 (klijent) |
+| 6 | Pravila | Kako se potpisuje ugovor: elektronski ili na papiru? | Scena ugovora | Elektronski (klijent) |
+| 7 | Pravila | Kako i kada se plaća: direktno prodavcu, avansno, u kom roku? | Poruka o plaćanju | Bez plaćanja unapred (klijent) |
+| 8 | Pravila | Pravila pominju depozit kupca kao garanciju. Da li se on i danas traži? | Poruka „bez plaćanja unapred“ mora biti tačna |  |
+| 9 | Pravila | Da li kupac danas bira i „Conditions of purchase“ iz pravila, ili samo unosi količinu? | Prikaz ponude kupca |  |
 | 10 | Pravila | Da li je dokument „Business rules on eBerza“ aktuelan i postoji li na srpskom? | Svi nalazi iz pravila |  |
-| 11 | Učesnici | Ko može da kupuje: samo firme i preduzetnici ili i fizička lica? | Publika i jezik videa | Firme, preduzetnici i registrovane delatnosti (forma za registraciju) |
-| 12 | Učesnici | Kako izgleda registracija firme i da li se firma verifikuje? | Scena registracije, poverenje | Tri koraka, PIB, matični broj i dokaz o upisu (snimci); otvoreno je da li eBerza proverava dokumenta |
-| 13 | Učesnici | Šta tačno uključuje opcija „Shopping privacy“? | Poruka o diskreciji |  |
-| 14 | Učesnici | Da li kupci u trgovini vide jedni druge i ukupnu prijavljenu količinu? | Animacija udruživanja |  |
-| 15 | Troškovi | Da li platforma naplaćuje proviziju ili članarinu, kome i koliko? Stranica o franšizi pominje udeo franšizanta od 1,5% po transakciji. | Poruka o ceni korišćenja |  |
-| 16 | Ponuda | Koje kategorije robe su danas aktivne? Smemo li da prikažemo stvarne oglase? | Snimci ekrana, primer proizvoda |  |
-| 17 | Ponuda | Da li se mogu nuditi i usluge, ili samo roba? | Obuhvat poruke |  |
-| 18 | Platforma | Da li je sajt menjan od 2020. ili se redizajn planira pre snimanja? | Snimci ne smeju brzo da zastare |  |
-| 19 | Platforma | Možete li otvoriti demo nalog kupca i prodavca i test-oglas za snimanje? | Autentičan prikaz toka |  |
-| 20 | Kampanja | Glavni cilj: registracija kupaca, prodavaca ili oba? Koji je jedan glavni poziv na akciju? | Struktura i završetak videa |  |
+| 11 | Učesnici | Ko može da kupuje: samo firme i preduzetnici ili i fizička lica? | Publika i jezik videa | Fokus je B2B (klijent) |
+| 12 | Učesnici | Kako izgleda registracija firme i da li se firma verifikuje? | Scena registracije, poverenje | Snimci registracije poslati (klijent); provera dokumenata nije opisana |
+| 13 | Učesnici | Šta tačno uključuje opcija „Shopping privacy“? | Poruka o diskreciji | Moguća je anonimna kupovina (klijent) |
+| 14 | Učesnici | Da li kupci u trgovini vide jedni druge i ukupnu prijavljenu količinu? | Animacija udruživanja | Mogu, osim kod anonimne kupovine (klijent) |
+| 15 | Troškovi | Da li platforma naplaćuje proviziju ili članarinu, kome i koliko? | Poruka o ceni korišćenja | Prodavac plaća 3–5% od prodaje (klijent) |
+| 16 | Ponuda | Koje kategorije robe su danas aktivne? Smemo li da prikažemo stvarne oglase? | Snimci ekrana, primer proizvoda | Prikazati stvarne ponude (klijent) |
+| 17 | Ponuda | Da li se mogu nuditi i usluge, ili samo roba? | Obuhvat poruke | Može sve: roba i usluge (klijent) |
+| 18 | Platforma | Da li je sajt menjan od 2020. ili se redizajn planira pre snimanja? | Snimci ne smeju brzo da zastare | Sajt je menjan (klijent) |
+| 19 | Platforma | Možete li otvoriti demo nalog kupca i prodavca i test-oglas za snimanje? | Autentičan prikaz toka | Ne (klijent) |
+| 20 | Kampanja | Glavni cilj: registracija kupaca, prodavaca ili oba? | Struktura i završetak videa | Oba (klijent) |
 | 21 | Kampanja | Gde će se video koristiti: sajt, YouTube, LinkedIn, sajmovi, prodajni sastanci? | Trajanje, titlovi, formati |  |
-| 22 | Kampanja | Da li video pominje franšizu ili samo kupce i prodavce? | Obuhvat poruke |  |
-| 23 | Kampanja | Treba li i engleska verzija? | Naracija, titlovi, grafika |  |
-| 24 | Brend | Koji je zvanični oblik naziva (eBerza ili e-Berza) i da li je „pametna trgovina“ aktuelan slogan? | Grafika i naracija |  |
-| 25 | Brend | Logo (SVG), zvanične boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost |  |
-| 26 | Dokazi | Postoje li stvarni korisnici ili rezultati koje smemo da navedemo, uz njihovu saglasnost? | Kredibilitet bez izmišljanja |  |
-| 27 | Pristup | Možete li dodati eberza.rs i eberza.com u dozvoljene domene okruženja, ili poslati tekst stranica FAQ i Pravila? | Provera svih nalaza na živom sajtu | Delimično: poslati su snimci registracije i link ka FAQ; FAQ i pravila još nisu otvoreni |
+| 22 | Kampanja | Da li video pominje franšizu ili samo kupce i prodavce? | Obuhvat poruke | Sve, i franšizu (klijent) |
+| 23 | Kampanja | Treba li i engleska verzija? | Naracija, titlovi, grafika | Da (klijent) |
+| 24 | Brend | Koji je zvanični oblik naziva i da li je „pametna trgovina“ aktuelan slogan? | Grafika i naracija | eBerza (klijent); slogan nije potvrđen |
+| 25 | Brend | Logo (SVG), zvanične boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost | Iskoristiti sve što je dostupno (klijent); brand book ne postoji ili nije poslat |
+| 26 | Dokazi | Postoje li stvarni korisnici ili rezultati koje smemo da navedemo? | Kredibilitet bez izmišljanja | Ne (klijent): video bez izjava korisnika i brojki o rezultatima |
+| 27 | Pristup | Pristup sajtu za proveru i snimke | Provera svih nalaza na živom sajtu | Sajt je javan (klijent), ali iz ovog okruženja je blokiran; potrebna je dozvola za domene |
+| 28 | Snimanje | Bez demo naloga: može li neko iz eBerze da snimi ekran toka posle prijave (objava oglasa, ponuda kupca, ugovor)? | Autentičan prikaz bez izmišljenih ekrana |  |
+| 29 | Ponuda | Koje stvarne oglase da prikažemo i smemo li da pokažemo nazive firmi i cene? | Prikaz stvarnih ponuda |  |
 
 ## Sledeći koraci
 
-Faza 2 (kreativni koncept) čeka vašu potvrdu i odgovore na pitanja 5–10, 15 i 20. Do tada ne pravim koncepte, scenario, slike ni video.
+Faza 1 je završena u meri u kojoj okruženje dozvoljava; faza 2 (kreativni koncept) čeka vašu potvrdu. Pitanja 8 (depozit) i 21 (gde se video koristi) dobro je rešiti pre koncepta, a 28 i 29 pre snimanja.
 
 **Odluke klijenta (16. 10. 2026.):**
 
 - Video govori firmama i preduzetnicima (B2B), ne građanima.
+- Video obuhvata kupce, prodavce i franšizu, sa ciljem da registruje i kupce i prodavce.
+- Video ima srpsku i englesku verziju.
+- Zvanični naziv je eBerza.
+- Prikazuju se stvarne ponude; demo nalozi ne postoje.
+- Nema izjava korisnika ni brojki o rezultatima.
 - Produkcija ne koristi Remotion ni slične alate koji video prave iz koda. Montaža i animacija rade se u klasičnim alatima, a izbor alata dolazi u fazi 4.
 
 * [x] Potvrditi publiku: firme i preduzetnici
-* [ ] Omogućiti pristup: dodati eberza.rs i eberza.com u dozvoljene domene okruženja ili poslati tekst stranica FAQ i Pravila (link ka FAQ je stigao, ali stranica nije dostupna iz okruženja)
+* [x] Odgovoriti na većinu pitanja iz sekcije 7
+* [ ] Omogućiti pristup: dodati eberza.rs i eberza.com u dozvoljene domene okruženja (sajt je javan, ali ga ovo okruženje blokira)
 * [ ] Poslati materijal za referentne videe (YouTube u dozvoljenim domenima, transkript sa snimcima ekrana ili MP4 fajlovi)
-* [ ] Odgovoriti na otvorena pitanja u sekciji 7
-* [ ] Poslati logo, zvanične boje, fontove i postojeće materijale
-* [ ] Otvoriti demo nalog kupca i prodavca za snimanje toka
+* [ ] Odgovoriti na pitanja 8, 9, 10, 21, 28 i 29
+* [ ] Dogovoriti ko snima tok posle prijave sa stvarnim nalogom
 
 Kada pristup bude omogućen, proveriću svaki citat iz ovog dokumenta na živom sajtu, dopuniti vizuelni identitet i analizirati reference.
 
