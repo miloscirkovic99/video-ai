@@ -1,8 +1,9 @@
 # eBerza — promotivni video (srpska verzija)
 
 Format: 16:9, 1920×1080. Izrada: Canva prezentacija izvezena kao MP4 (bez Remotion-a i sličnih alata koji video prave iz koda).
-Trajanje: 27 kadrova po oko 5 sekundi, oko 2:15.
-Zvuk: video nosi poruku tekstom na ekranu. Naracija ispod je spremna za snimanje glasa i nalazi se i u beleškama govornika u Canvi.
+Canva dizajn: https://www.canva.com/d/tGZ7hfop43tBcTh (ID `DAHYLTzsCCU`). MP4 se izvozi iz Canve (Share → Download → MP4).
+Trajanje: 27 kadrova; Canva određuje trajanje kadra pri izvozu (cilj je oko 5 sekundi po kadru, oko 2:15). Trajanje izvezenog fajla nije provereno iz radnog okruženja.
+Zvuk: video nosi poruku tekstom na ekranu, bez glasa i muzike. Naracija ispod je spremna za snimanje glasa; glas i muzika se dodaju u Canvi.
 
 Brojevi u kadrovima 9, 11 i 12 su **ilustracija**, a ne stvarna ponuda sa eBerze, i tako su označeni u videu.
 
@@ -18,7 +19,7 @@ Brojevi u kadrovima 9, 11 i 12 su **ilustracija**, a ne stvarna ponuda sa eBerze
 | 8 | 1. Prodavac objavljuje oglas / Robu ili uslugu, količinu i cene po pragovima. | Prodavac objavljuje oglas: robu ili uslugu, količinu i cene po pragovima. |
 | 9 | Primer (ilustracija): 1–99 kom · 300 din / 100–499 kom · 270 din / 500+ kom · 240 din | Što se ukupno kupi više, cena po komadu je niža. |
 | 10 | 2. Kupci unose količinu / Svako koliko mu treba, već od 1 komada. | Kupci unose količinu koja im treba, već od jednog komada. |
-| 11 | 3. Količine se sabiraju / Kupac A 120 + Kupac B 250 + Kupac C 180 = 550 kom (ilustracija) | Količine svih kupaca se sabiraju. |
+| 11 | 3. Količine se sabiraju / Kupac A + Kupac B + Kupac C (ilustracija): 120 + 180 + 230 = 530 kom | Količine svih kupaca se sabiraju. |
 | 12 | Zbir je prešao prag od 500 komada. / Cena za sve kupce: 240 din (ilustracija) | Kada zbir pređe sledeći prag, nižu cenu dobijaju svi. |
 | 13 | 4. Trgovina se zatvara / Kada istekne rok, do 90 dana, ili se rasproda količina. | Trgovina se zatvara kada istekne rok, najviše devedeset dana, ili kada se rasproda količina. |
 | 14 | Prag nije dostignut? / Kupac može da odustane. | Ako prag nije dostignut, kupac može da odustane. |
@@ -33,7 +34,7 @@ Brojevi u kadrovima 9, 11 i 12 su **ilustracija**, a ne stvarna ponuda sa eBerze
 | 23 | Vi određujete cene, pragove i rok. / Provizija: 3–5% od ostvarene prodaje. | Vi određujete cene, pragove i rok, a provizija je od tri do pet odsto od ostvarene prodaje. |
 | 24 | Samo registrovane firme i preduzetnici / PIB, matični broj i dokaz o upisu u registar. (snimci forme za registraciju) | Na eBerzi trguju samo registrovane firme i preduzetnici. |
 | 25 | Za franšizante / Ekskluzivna teritorija i pristup sistemu grupne trgovine. | Želite da razvijate eBerzu u svom regionu? Postanite franšizant. |
-| 26 | Kupci se udružuju. Prodavci prodaju više. / Svi trguju po ugovoru. | Kupci se udružuju, prodavci prodaju više, a svi trguju po ugovoru. |
+| 26 | Kupci se udružuju. Prodavci prodaju više. / Svi trguju po ugovoru. (grafika: Kupci — ugovor — Prodavci) | Kupci se udružuju, prodavci prodaju više, a svi trguju po ugovoru. |
 | 27 | Registrujte se na eberza.rs / Kao kupac, prodavac ili franšizant. | Registrujte se na eberza.rs, kao kupac, prodavac ili franšizant. |
 
 ## Izvori tvrdnji
