@@ -151,7 +151,7 @@ Vaši snimci ekrana pokazuju interfejs u tamnoplavoj, sivoplavoj i svetloplavoj 
 | Slogan | „pametna trgovina“, iz naziva Facebook stranice | Potvrditi da li je aktuelan |
 | Zaštićeni znak | Prijava „EB EBERZA“ u SAD, broj 79374476, podneta 6. 4. 2023., vlasnik AFEJA ([Justia](https://trademarks.justia.com/793/74/eb-79374476.html)) | Izgled znaka nije viđen |
 | Logo | Nije viđen na snimcima | Potreban SVG |
-| Boje interfejsa (uzorak) | Tamnoplava #193965 (aktivno dugme); skoro crna plava #0B1A2D (naslovi); sivoplava #6E829E (opisi, neaktivno dugme); svetloplava #87CEEB do #9DD7EF (aktivni tab, linkovi, ikone); bordo #823A4C (dugme za čet, poruke o grešci u istoj nijansi); svetla roze-siva #F7EAEC (prelaz u footeru) | Približne vrednosti; bordo može biti boja čet-alata, ne brenda |
+| Boje interfejsa (uzorak) | Glavna boja brenda: #2596be (klijent). Uzorci sa snimaka: tamnoplava #193965 (aktivno dugme); skoro crna plava #0B1A2D (naslovi); sivoplava #6E829E (opisi, neaktivno dugme); svetloplava #87CEEB do #9DD7EF (aktivni tab, linkovi, ikone); bordo #823A4C (dugme za čet, poruke o grešci u istoj nijansi); svetla roze-siva #F7EAEC (prelaz u footeru) | Približne vrednosti; bordo može biti boja čet-alata, ne brenda |
 | Font | Geometrijski sans-serif, zaobljenih oblika; naziv nije poznat | Proveriti u CSS-u ili brand book-u |
 | Stil interfejsa | Uske forme na belom, polja sa tankim okvirom i zaobljenim uglovima, ikonice uz tabove, navigacija: Buyers, Sellers, Franchise / eBerza, Regulation, FAQ, News | Viđeno na snimcima |
 | Ton komunikacije | Obraćanje sa „Vi“, kratke poruke u imperativu: „Pridružite se besplatno“, „Registrujte se“; EN naslov „Increase sales.“ | Iz teksta sajta |
@@ -248,7 +248,7 @@ Otvoreno je još šest od 29 pitanja (8, 9, 10, 21, 28 i 29). Ostali odgovori su
 | 22 | Kampanja | Da li video pominje franšizu ili samo kupce i prodavce? | Obuhvat poruke | Sve, i franšizu (klijent) |
 | 23 | Kampanja | Treba li i engleska verzija? | Naracija, titlovi, grafika | Da (klijent) |
 | 24 | Brend | Koji je zvanični oblik naziva i da li je „pametna trgovina“ aktuelan slogan? | Grafika i naracija | eBerza (klijent); slogan nije potvrđen |
-| 25 | Brend | Logo (SVG), zvanične boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost | Iskoristiti sve što je dostupno (klijent); brand book ne postoji ili nije poslat |
+| 25 | Brend | Logo (SVG), zvanične boje (HEX), fontovi, brand book i postojeći materijali? | Vizuelna doslednost | Iskoristiti sve što je dostupno (klijent); glavna boja #2596be (klijent); brand book nije poslat |
 | 26 | Dokazi | Postoje li stvarni korisnici ili rezultati koje smemo da navedemo? | Kredibilitet bez izmišljanja | Ne (klijent): video bez izjava korisnika i brojki o rezultatima |
 | 27 | Pristup | Pristup sajtu za proveru i snimke | Provera svih nalaza na živom sajtu | Sajt je javan (klijent), ali iz ovog okruženja je blokiran; potrebna je dozvola za domene |
 | 28 | Snimanje | Bez demo naloga: može li neko iz eBerze da snimi ekran toka posle prijave (objava oglasa, ponuda kupca, ugovor)? | Autentičan prikaz bez izmišljenih ekrana |  |

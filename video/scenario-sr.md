@@ -2,6 +2,7 @@
 
 Format: 16:9, 1920×1080. Izrada: Canva prezentacija izvezena kao MP4 (bez Remotion-a i sličnih alata koji video prave iz koda).
 Canva dizajn: https://www.canva.com/d/tGZ7hfop43tBcTh (ID `DAHYLTzsCCU`). MP4 se izvozi iz Canve (Share → Download → MP4).
+Glavna boja: #2596be (klijent); sekcijski kadrovi, istaknuti okviri i oblici su u toj boji, tekst ostaje taman radi čitljivosti.
 Trajanje: 27 kadrova; Canva određuje trajanje kadra pri izvozu (cilj je oko 5 sekundi po kadru, oko 2:15). Trajanje izvezenog fajla nije provereno iz radnog okruženja.
 Zvuk: video nosi poruku tekstom na ekranu, bez glasa i muzike. Naracija ispod je spremna za snimanje glasa; glas i muzika se dodaju u Canvi.
 
