@@ -38,7 +38,7 @@ Brojevi u kadrovima 9, 11 i 12 su **ilustracija**, a ne stvarna ponuda sa eBerze
 
 ## Izvori tvrdnji
 
-Sve tvrdnje potiču iz dokumenta `research/eberza/faza-1-product-research-video-brief.md`: odgovori klijenta (rok, zatvaranje trgovine, odustajanje, minimum 1, elektronski ugovor, bez plaćanja unapred, provizija 3–5%, anonimna kupovina, roba i usluge), pravila poslovanja (najviše 90 dana, nema zajedničke odgovornosti), tekst sajta (registracija za kupce besplatna, udruživanje kupaca, fran­šiza sa teritorijom) i snimci forme za registraciju.
+Sve tvrdnje potiču iz dokumenta `research/eberza/faza-1-product-research-video-brief.md`: odgovori klijenta (rok, zatvaranje trgovine, odustajanje, minimum 1, elektronski ugovor, bez plaćanja unapred, provizija 3–5%, anonimna kupovina, roba i usluge), pravila poslovanja (najviše 90 dana, nema zajedničke odgovornosti), tekst sajta (registracija za kupce besplatna, udruživanje kupaca, franšiza sa teritorijom) i snimci forme za registraciju.
 
 ## Šta nedostaje za konačnu verziju
 
